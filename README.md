@@ -1,1 +1,1 @@
-# Corona Virus Pandemic Dashboard 
+# Corona Virus Pandemic Python Project
