@@ -1,1 +1,1 @@
-# Corona Virus Pandemic Python Project
+# COVID-19 Impact Data Analysis 🦠
